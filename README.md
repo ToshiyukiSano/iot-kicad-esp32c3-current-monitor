@@ -48,6 +48,7 @@
 | [07 安全・未解決事項](docs/07-safety-open-items.md) | 実機接続前の必須確認 |
 | [08 AIへの指示と失敗集](docs/08-ai-prompts-and-lessons.md) | 再利用可能なプロンプト、対処法 |
 | [09 GitHub公開手順](docs/09-publishing.md) | ソース移管と公開手順 |
+| [10 PCB製造・PCBAと費用](docs/10-pcba-ordering-and-cost.md) | 業者での部品実装、必要ファイル、5枚試作の概算と発注前確認 |
 
 ## この配布物に含まれないもの
 
