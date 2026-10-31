@@ -1,0 +1,34 @@
+# Local tooling and credential files
+.claude/
+.env
+.env.*
+!.env.example
+**/secrets.*
+**/*credential*
+**/*token*
+**/config.ini
+
+# KiCad local cache and backup
+*-backups/
+*.kicad_prl
+*.kicad_swp
+*.lck
+*~
+**/backup/
+**/logs/
+**/scratchpad/
+
+# Build and fabrication outputs (publish only after independent review)
+*.gbr
+*.drl
+*.gbrjob
+*.pos
+*.rpt
+*.elf
+*.bin
+*.hex
+*.map
+
+# Python
+__pycache__/
+*.pyc

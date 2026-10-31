@@ -1,0 +1,17 @@
+Ref,Qty,Value_or_spec,Package_or_footprint,Candidate_manufacturer,Candidate_MPN,Status
+U1,1,Seeed XIAO ESP32C3,Custom_2x07_2.54mm_15.24mm,Seeed Studio,113991054,未購入・現物未確認
+CT1,1,SR-3704-150N split-core CT,External,Manufacturer_SR,SR-3704-150N,センサー型番は仕様書参照
+J1,1,2-position 5.08mm terminal block,Phoenix_MKDS,PHOENIX CONTACT,1715721,購入時の最新仕様未確認
+R1,1,10ohm 1pct 0.25W,R_1206,Yageo,RC1206FR-0710RL,型番候補・照合必要
+R2 R3,2,10kohm 1pct,R_0603,Yageo,RC0603FR-0710KL,型番候補・照合必要
+R4,1,4.7kohm 1pct,R_0603,Yageo,RC0603FR-074K7L,型番候補・照合必要
+C1,1,10uF 10V X7R,C_0805,Samsung,CL21B106KPQNNNE,型番候補・DCバイアス特性確認
+C2,1,100nF C0G or X7R,C_0805,Murata,GRM21B5C1H104JA01L,型番候補・品種存在性確認
+C3,1,100nF X7R,C_0603,Murata,GRM188R71H104KA93D,型番候補・照合必要
+D1,1,BAT54S dual Schottky,SOT-23,Diodes Inc,BAT54S-7-F,ピン極性・仕様再確認
+D2,0,Optional TVS - DNP,Diode_SMD_D_SMA,,SMAJ8.5CA,基板にパッドのみ・実装禁止扱い
+J4,1,1x12 header 2.54mm,PinHeader_1x12,Wurth,61301211121,型番候補・照合必要
+Socket_U1,2,1x7 female header 2.54mm,PinSocket_1x07,Sullins,PPPC071LFBN-RC,型番候補・高さ要確認
+Header_U1,2,1x7 male header 2.54mm,PinHeader_1x07,Sullins,PRPC040SAAN-RC,1x40切り出し想定・現物確認
+PCB,1,50x40mm 2-layer FR4 1.6mm 35um,Custom,,,Gerber未生成・未製造
+Mounting,3,M3 NPTH holes,M3_3.2mm,,,ねじ/スペーサ/筐体未選定

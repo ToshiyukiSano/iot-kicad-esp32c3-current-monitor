@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "current-monitor")(type "KiCad")(uri "${KIPRJMOD}/current-monitor.pretty")(options "")(descr "Project footprints: XIAO ESP32C3 socket rows"))
+)
